@@ -14,6 +14,7 @@
     color: #FFF;
     padding: 0 200px 0 200px;
     
+    
 }
 
 .header ul{
@@ -24,5 +25,42 @@
     gap: 20px;
 }
 
+.imgcar{
+    width: 400px;
+    height: auto;
+    padding-bottom: 40px;
+}
 
+.flexcontainer1{
+    display: flex;
+    background-color: #1F2937;
+    height: 400px;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 200px 0 200px;
+}
 
+.herocontainer{
+    width: 400px;
+    height: 250px;
+}
+
+.herocontainer h1{
+    color: #F9FAF8;
+    font-weight: 900;
+    font-size: 48px;
+}
+
+.herocontainer p{
+    font-size: 18px;
+    color: #E5E7EB;
+    padding: 15px 0;
+}
+
+.signupbutton{
+    background-color: #3882F6;
+    color: #F9FAF8;
+    padding: 10px 30px 10px 30px;
+    border-radius: 8px;
+    
+}
